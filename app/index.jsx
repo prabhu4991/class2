@@ -8,8 +8,10 @@ export default function App() {
       roll: 26,
     }
   ]
-  const arrobjects = [
-  ];
+
+
+
+  fytdtd
 
   return (
     <View>
